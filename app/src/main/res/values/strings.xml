@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirebaseLogin</string>
+
+    <!-- Login -->
+    <string name="login_error">Não foi possível efetuar login.</string>
+    <string name="forgot_password">Esqueci a Senha</string>
+    <string name="register">Cadastrar</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="invalid_email">E-mail inválido</string>
+    <string name="invalid_password_size">A senha deve conter 6 caracteres no mínimo.</string>
+    <string name="email_required">E-mail é obrigatório!</string>
+    <string name="pass_required">Senha é obrigatória.</string>
+    <string name="login_success">Login efetuado com sucesso!</string>
+    <string name="signingoogle">Sign in with Google</string>
+
+</resources>
